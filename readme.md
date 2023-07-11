@@ -116,7 +116,8 @@ The system architecture is organized into the following layers:
   4. Send these data to the UI program to take actions.
 
   ### **`TODO`** :
-  Install dependencies mentioned in each reference [Raspberry Pi Facial Recognition](https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition) and [0-to-9-ASL](https://github.com/AladdinT/0-to-9-ASL).
+  1. Install dependencies mentioned in each reference [Raspberry Pi Facial Recognition](https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition) and [0-to-9-ASL](https://github.com/AladdinT/0-to-9-ASL).
+  2. Move your custom face recognetion model 'encodings.pickle' to './Plugins/myAiModule'
   <hr>
 
 ## Smart Home Module
