@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 30.9409,
+        "lat": 29.9723
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.18,
+        "feels_like": 290.27,
+        "temp_min": 291.18,
+        "temp_max": 291.48,
+        "pressure": 1019,
+        "humidity": 47,
+        "sea_level": 1019,
+        "grnd_level": 997
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.62,
+        "deg": 317,
+        "gust": 4.84
+    },
+    "clouds": {
+        "all": 97
+    },
+    "dt": 1672750226,
+    "sys": {
+        "type": 2,
+        "id": 47682,
+        "country": "EG",
+        "sunrise": 1672721540,
+        "sunset": 1672758499
+    },
+    "timezone": 7200,
+    "id": 360997,
+    "name": "6th of October",
+    "cod": 200
+}
