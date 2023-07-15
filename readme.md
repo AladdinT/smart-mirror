@@ -1,4 +1,4 @@
-# rpi4-Smart-Mirror
+# smart-mirror
 
 This repositry is for **HTI** graduation project <br>
 Project Grade: A+ <br>
@@ -6,10 +6,10 @@ Date: June 2023
 
 Generally, A smart mirror is a two-way mirror with an electronic display behind the glass. The display can show the viewer different kinds of information in the form of widgets, such as weather, time, date, and news updates.
 ## What does our Smart Mirror feature ?
+For Higher Quality [click here](https://youtube.com/shorts/ZPRRIkL8Z00?feature=share)
 
-<p align="center">
-  <img width=20% src="./Media/readme/sample_video.gif">
-</p>
+https://github.com/AladdinT/smart-mirror/assets/73729408/bb42762f-484a-430d-b9d9-cc0016b13a44
+
 
 - **Time, Date, and Weather Display** : Users can quickly glance at the mirror to stay informed about the current weather conditions and plan their day accordingly.
 - **Google Calendar Integration** : The smart mirror seamlessly integrates with the user's Google Calendar. It serves as a convenient visual reminder, ensuring that users never miss important engagements.
